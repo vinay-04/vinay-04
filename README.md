@@ -1,6 +1,6 @@
  <h1 align="center"> Hello there! I am Vinay Rajan S</h1>
  <h4 align="center">  Student • Programmer • Musician • Cross-Platform Dev </h4>
- <h4 align="center">  Studying at SRM | Btech Cse - Cloud Computing | 2026 Batch </h4>
+ <h4 align="center">  Studying at SRM, KTR | Btech Cse - Cloud Computing | 2026 Batch </h4>
  
 ---
 ### 🔥 Cool Projects 
