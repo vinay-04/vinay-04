@@ -1,4 +1,4 @@
- <h1 align="center"> Hello there! I am Vinay Rajan S</h1>
+ <h1 align="center"> Hey! I am Vinay Rajan :)</h1>
  <h4 align="center">  Student • Programmer • Musician • Cross-Platform Dev </h4>
  <h4 align="center">  Studying at SRM, KTR | Btech Cse - Cloud Computing | 2026 Batch </h4>
  
@@ -15,7 +15,7 @@
 - Discord Profile: [PraiseTheSun#2189](https://discord.com/users/709417842256248943) 
 - Twitter Profile: [VinayRajanS](https://twitter.com/VinayRajanS)
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding)
- 
+
 ---
 <details>
 <summary>📊 GitHub Stats </summary>
