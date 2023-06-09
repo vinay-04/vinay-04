@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-I'm currently working on an AI based system for identifying accident-prone spots.<br>I'm looking to collaborate projects that may be related AI/ML , Fintech.<br>I'm currently learning the basics of AI/Ml and trying to make myself proficient cross-platform applications using Flutter.
+I'm looking to collaborate projects that may be related AI/ML , Fintech.<br>I'm currently learning the basics of AI/Ml and trying to make myself proficient cross-platform applications using Flutter.<br>I'm currently working on an AI based system for identifying accident-prone spots.
 
 ## 🌐 Socials:
 
