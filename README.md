@@ -19,4 +19,4 @@ I'm looking to collaborate projects that may be related AI/ML , Fintech.<br>I'm 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vinay-04&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinay-04&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
